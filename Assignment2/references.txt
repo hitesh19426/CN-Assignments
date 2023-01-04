@@ -1,0 +1,7 @@
+1. https://www.youtube.com/playlist?list=PL9IEJIKnBJjH_zM5LnovnoaKlXML5qh17
+2. https://stackoverflow.com/questions/1352749/multiple-arguments-to-function-called-by-pthread-create
+3. https://www.ibm.com/docs/en/i/7.1?topic=designs-using-poll-instead-select
+4. https://stackoverflow.com/questions/3004811/how-do-you-run-multiple-programs-in-parallel-from-a-bash-script
+5. https://www.geeksforgeeks.org/socket-programming-cc/?ref=lbp
+6. https://github.com/nikhilroxtomar/Multiple-Client-Server-Program-in-C-using-fork/blob/master/tcpServer.c
+7. https://www.geeksforgeeks.org/multithreading-c-2/
